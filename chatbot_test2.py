@@ -14,7 +14,7 @@ import urllib
 #corpus_trainer = ChatterBotCorpusTrainer(my_bot)
 #corpus_trainer.train ('chatterbot.corpus.english')z
 
-TOKEN = "1332795924:AAHABjnH9eGnTug5qXwe9LP3FQL0hQyvTmg"
+TOKEN = "****"
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 
 def get_url(url):
